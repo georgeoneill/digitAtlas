@@ -1,5 +1,7 @@
 # digitAtlas
 
+_VERSION 0.1: This is currently subject to peer review, and not neccerily a refleciton of the final version._
+
 <p align="center">
 <img src='images/example.jpg'>
 </p>
