@@ -16,4 +16,4 @@ In the dataset there are two versions of each set of maps labelled **automatic**
 
 # Citation
 Please cite the following paper if this code is of any benefit to yourself. 
-> O’Neill G.C., Sengupta A., Asghar M., Barratt E.L., Besle J., Schluppeck D., Francis S.T., Sanchez Panchuelo R. M., (20XX) A probabilistic atlas of finger dominance in the primary somatosensory cortex
+> O’Neill G.C., Sengupta A., Asghar M., Barratt E.L., Besle J., Schluppeck D., Francis S.T., Sanchez Panchuelo R. M., (2020) A probabilistic atlas of finger dominance in the primary somatosensory cortex. NeuroImage _in press_ https://doi.org/10.1016/j.neuroimage.2020.116880
