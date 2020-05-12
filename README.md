@@ -1,6 +1,6 @@
 # digitAtlas
 
-_VERSION 0.1: This is currently subject to peer review, and not necessarily a refleciton of the final version._
+_VERSION 0.2: Atlas has been peer-reviewed and preview of maps are available. Full preprocessed assets coming soon.
 
 <p align="center">
 <img src='images/example.jpg'>
