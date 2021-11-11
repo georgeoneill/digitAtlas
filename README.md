@@ -1,6 +1,6 @@
 # digitAtlas
 
-_**VERSION 0.2:** Atlas has been peer-reviewed and preview of maps are available. Full preprocessed assets coming soon._
+_**VERSION 0.2:** Atlas has been peer-reviewed and preview of maps are available._
 
 <p align="center">
 <img src='images/example.jpg'>
